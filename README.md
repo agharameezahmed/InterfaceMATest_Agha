@@ -9,7 +9,7 @@ This project is created on web api .Net core. Following are the API's and functi
 5- return a house has at least 10 rooms and does not cost more than 5.000.000€ (API : https://localhost:*/homeprovider/GetMoveIntoNewHouse)<br/>
 
 ## Prerequisites
-you need to install following software to execute this project<br/>
+you need to install following software/packages to execute this project<br/>
 1- Visual Studio 2019<br/>
 2- .Net core 3.1<br/>
 3- GeoLocation 1.2.1<br/>
