@@ -1,0 +1,7 @@
+C:\Users\Rameez\source\repos\InterfaceMATest_Agha\InterfaceMATest_Domain\bin\Debug\netcoreapp3.1\InterfaceMATest_Domain.deps.json
+C:\Users\Rameez\source\repos\InterfaceMATest_Agha\InterfaceMATest_Domain\bin\Debug\netcoreapp3.1\InterfaceMATest_Domain.dll
+C:\Users\Rameez\source\repos\InterfaceMATest_Agha\InterfaceMATest_Domain\bin\Debug\netcoreapp3.1\InterfaceMATest_Domain.pdb
+C:\Users\Rameez\source\repos\InterfaceMATest_Agha\InterfaceMATest_Domain\obj\Debug\netcoreapp3.1\InterfaceMATest_Domain.AssemblyInfoInputs.cache
+C:\Users\Rameez\source\repos\InterfaceMATest_Agha\InterfaceMATest_Domain\obj\Debug\netcoreapp3.1\InterfaceMATest_Domain.AssemblyInfo.cs
+C:\Users\Rameez\source\repos\InterfaceMATest_Agha\InterfaceMATest_Domain\obj\Debug\netcoreapp3.1\InterfaceMATest_Domain.dll
+C:\Users\Rameez\source\repos\InterfaceMATest_Agha\InterfaceMATest_Domain\obj\Debug\netcoreapp3.1\InterfaceMATest_Domain.pdb
