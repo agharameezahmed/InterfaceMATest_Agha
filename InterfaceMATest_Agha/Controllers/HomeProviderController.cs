@@ -22,7 +22,7 @@ namespace InterfaceMATest_Agha.Controllers
             _baseHouseService = baseHouseService;
         }
         /// <summary>
-        /// Returns all houses
+        /// Returns all houses 1
         /// </summary>
         /// <returns></returns>
         [HttpGet]
